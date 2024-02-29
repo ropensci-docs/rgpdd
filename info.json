@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7406de253d397e7fa7485ecd4b4816ede9a25a2e",
+    "author": "Carl Boettiger <cboettig@gmail.com>",
+    "time": "2020-05-18 16:02:50",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "repo": "https://github.com/ropensci/rgpdd",
+  "pkg": "rgpdd"
+}
